@@ -47,8 +47,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@kartikhullannavar25-hub](https://www.frontendmentor.io/profile/kartikhullannavar25-hub)
-- GitHub - [@kartikhullannavar25-hub](https://github.com/kartikhullannavar25-hub)
+- Frontend Mentor - [@kartik-kumar25](https://www.frontendmentor.io/profile/kartik-kumar25)
+- GitHub - [@kartik-kumar25](https://github.com/kartik-kumar25)
 
 
 ## Acknowledgments
